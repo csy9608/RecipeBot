@@ -28,7 +28,7 @@
     "google-auth-library": "^0.11.0",
     "googleapis": "^22.2.0",
     "json2csv": "^3.11.5",
-    "moment": "^2.21.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.14",
     "mongoose": "^5.0.12",
     "mysql": "^2.15.0",
