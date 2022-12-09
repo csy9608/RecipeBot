@@ -24,7 +24,7 @@
     "cfenv": "*",
     "cloudant": "^1.8.0",
     "dotenv": "^2.0.0",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "google-auth-library": "^0.11.0",
     "googleapis": "^22.2.0",
     "json2csv": "^3.11.5",
